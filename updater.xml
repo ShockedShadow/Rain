@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.1.0</version>
-    <url>https://raw.githubusercontent.com/ShockedShadow/Rain/main/Rain_Setup_v1.1.exe</url>
+    <url>https://github.com/ShockedShadow/Rain/raw/refs/heads/main/Rain_Setup_v1.1.exe</url>
     <changelog>https://github.com/ShockedShadow/Rain</changelog>
     <mandatory>false</mandatory>
 </item>
